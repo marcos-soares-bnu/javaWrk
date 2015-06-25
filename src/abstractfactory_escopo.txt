@@ -1,0 +1,21 @@
+1.       Criar uma classe Carro, contendo os seguintes atributos:
+ 
+a.       Cilindrada
+ 
+b.      Cor
+ 
+c.       Portas
+ 
+d.      Opcionais
+ 
+2.       Criar as classes Palio, Uno, Civic e City
+ 
+3.       Criar a classe Fiat, onde os opcionais padrão são Ar quente e vidros elétricos:
+ 
+4.       Criar a classe Honda, onde os opcionais padrão são Ar condicionado, vidros elétricos, ABS e Direção hidráulica.
+ 
+5.       Criar a classe para cada fabricante, que informe nos parâmetros o qual veículo será criado.
+ 
+6.       Criar a classe fabricante, que crie Fiat e Honda
+ 
+7.       Criar uma classe Main e realizar os testes.

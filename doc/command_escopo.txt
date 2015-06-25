@@ -1,0 +1,18 @@
+1. Criar uma classe de controller para a máquina de brinquedos.
+
+
+2. Criar cinco classes de comando para as seguintes operações: 
+	
+	direita, esquerda, frente, traz e "descer e abrir grua".
+
+
+3. Criar uma classe grua que recebe a aplicação dos comandos.
+
+
+4. Criar uma aplicação que chama o controller que executa os comandos: 
+	
+	frente, frente, direita, frente, descer, pegando assim um brinquedo. 
+	
+	Voltar a grua a posição original :
+	
+	rodando os comandos em ordem inversa, soltando o brinquedo no final.

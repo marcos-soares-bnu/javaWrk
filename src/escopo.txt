@@ -1,0 +1,10 @@
+Definição e exemplos... (Pad. comportamentais)
+
+4. Memento ( eu / Ederson / Andre / Tiago )
+
+
+>Observer/Listener
+State
+>Strategy
+Template Method
+Visitor

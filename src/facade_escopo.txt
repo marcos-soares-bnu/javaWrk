@@ -1,0 +1,28 @@
+1. Facade
+
+Suponha que uma filmadora é composta por dois subsistemas, o de 
+	captura de imagens e 
+	o de áudio.
+
+Cada vez que uma filmagem é iniciada, 
+
+Video:
+
+	um procedimento interno de 
+		posicionamento da fita para que a gravação não sobreponha o que já foi gravado é executado.
+			OK
+				Uma vez que a fita esteja posicionada, 
+					o microfone e o 
+					subsistema de captura de imagens são acionados.
+As lentes também começam a capturar as imagens até receber um sinal de parada.
+
+
+Audio:
+
+		O microfone é ligado e começa a capturar o áudio até receber um sinal de parada.
+
+Do ponto de vista do usuário, estes procedimentos internos não lhe interessam. Quando ele aperta o botão REC espera que a filmadora filme.
+
+
+Quando aperta novamente, espera que a filmadora pare de filmar.
+Construa um simulador utilizando o padrão façade que esconde os detalhes dos subsistemas do usuário e só deixe transparente o start/end da filmagem.

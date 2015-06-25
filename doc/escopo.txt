@@ -1,0 +1,22 @@
+Definição e exemplos... (Pad. comportamentais)
+
+4. Memento ( eu / Ederson / Andre / Tiago )
+
+	>	Observer/Listener
+		State
+	>	Strategy
+		Template Method
+		Visitor
+
+
+Links Pesquisados:
+
+- http://www.javaworld.com/article/2077569/core-java/java-tip-68--learn-how-to-implement-the-command-pattern-in-java.html?page=2
+- https://github.com/MarcosX/Padr-es-de-Projeto/tree/master/src/br/padroes/observer
+- http://www.macoratti.net/13/03/net_obs1.htm
+- http://www.devmedia.com.br/como-implementar-o-design-pattern-observer-no-net/32846
+- https://sourcemaking.com/design_patterns/command/java/1
+
+Livro:
+
+* http://dl.dropbox.com/u/33757281/Use_a_Cabe%C3%A7a%21_-_Padr%C3%B5es_de_Porjetos.pdf
